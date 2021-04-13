@@ -1,0 +1,6 @@
+compute_disorder_IPR_2D.py 生成disorder结构及特征数据
+wave2matNN.py  深度学习程序，需在搭载能够做机器学习的电脑上方可运行
+results 文件夹有部分复现结果
+
+参考网站：
+https://chaos.if.uj.edu.pl/~delande/Lectures/
