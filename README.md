@@ -21,5 +21,5 @@ unsupervised_machine_learning.py
 ### 与文章（3）相关：
 unsupervised_manifold_clustering.py
 
-##参考网站：
+## 参考网站：
 https://chaos.if.uj.edu.pl/~delande/Lectures/
